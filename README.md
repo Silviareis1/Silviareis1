@@ -1,4 +1,4 @@
-## Hi there 👋
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, seja bem-vindo(a)!</h2>
 
 <!--
 **Silviareis1/Silviareis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
