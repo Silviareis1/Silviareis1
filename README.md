@@ -57,7 +57,7 @@ Estudante apaixonada por tecnologia, estou começando minha jornada no mundo da 
 </div>
 
 <div>
-  <a href="https://github.com/silviareis2/silviareis2/">
+  <a href="https://github.com/silviareis1/silviareis1/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviareis2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviareis2&layout=compact&langs_count=16&theme=dark"/>
 </div>  
