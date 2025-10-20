@@ -1,63 +1,117 @@
-###
+<!--
+🌸 README de Silvia Reis
+Tema: Pastel claro, inspirador e profissional
+Com animação, estatísticas, contador e badges de cursos
+-->
 
-<h1><img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, seja bem-vindo(a)! Eu sou Silvia Reis.</h1>
-<div>
-<h3>Conecte-se comigo:</h3>     
-    <a href = "mailto:silviareis104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/silviareis1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/sreis36" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<!-- Animação do título -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&size=28&duration=4000&pause=1000&color=F6A5C0&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Silvia+Reis+💻;Bem-vindo+ao+meu+perfil!+🌸" alt="Typing SVG" />
+  </a>
+</h1>
 
-👩‍💻 Desenvolvedora Front-end | Futura Back-end Developer
-
-🌟 Apaixonada por tecnologia e construindo o futuro digital
-
-🚀 Atualmente explorando o universo do Front-end e buscando conhecimentos no Back-end
-
-📚 Comprometida com aprendizado contínuo e crescimento profissional
-
-<span align="center">
-  
-   ![249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d](https://github.com/silviareis2/silviareis2/assets/104873230/78d65f6e-fe96-45b9-b9e7-9cd85881f4a9)
-</span>  <br>
-<p align="justify">
-Estudante apaixonada por tecnologia, estou começando minha jornada no mundo da programação com foco no desenvolvimento front-end. Comprometida com aprendizado constante, tenho planos de aprofundar meus conhecimentos em back-end. Vamos construir o futuro juntos!
-</p>
-<div style="display: inline_block"><br>
-  
-  <h2 align="start"> 👩‍💻 Bad Dev </h2>
-
-<h3 align="start">Front-end Enthusiast</h3>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-<p align="justify">
-    Explorando o lado sombrio do código com paixão pelo front-end. Transformando designs em experiências incríveis usando HTML, CSS e JavaScript.
+<p align="center">
+  <em>"A curiosidade me trouxe até a tecnologia — e agora é ela que me move a aprender e criar todos os dias."</em>
 </p>
 
+---
 
-<h3 align="start">Back-end Explorer</h3>
+## 💖 Sobre mim
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+Sempre tive curiosidade sobre como as coisas funcionam na internet — desde os sites que acessamos todos os dias até os sistemas que tornam tudo possível.  
 
-<p align=]"justify">Mergulhando nos mistérios do back-end. Atualmente, estudando PHP para construir lógica robusta e SQL para dominar os bancos de dados.</p>
+Agora estou transformando essa curiosidade em aprendizado, iniciando dois cursos técnicos:  
+🎓 **Técnico em Informática para a Internet (FAT)**  
+🎓 **Técnico em Desenvolvimento de Sistemas (SENAC EaD)**  
 
-<p align="justify">Vamos quebrar as barreiras e construir algo incrível juntas. 🚀</p> 
+Atualmente estou aprendendo **HTML, CSS, JavaScript, lógica de programação, React e banco de dados**, com o objetivo de criar soluções que façam diferença para as pessoas.  
 
-##  <h3 align="start">Banco de Dados 🛢️</h3>
+💡 Acredito que a tecnologia é uma ferramenta poderosa para gerar oportunidades e conectar o mundo — e quero fazer parte dessa transformação. 🌍✨  
 
-<p align="justify">  Atualmente, sou uma exploradora incansável dos mistérios dos bancos de dados. Meu arsenal inclui:🚀</p>
+---
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🛠️ Tecnologias que estou aprendendo
 
-</div>
+<p align="center">
+ <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF59D?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-B2EBF2?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-D1C4E9?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F28B82?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-D7CCC8?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-B3E5FC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</p>
 
-<div>
-  <a href="https://github.com/silviareis1/silviareis1/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviareis2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviareis2&layout=compact&langs_count=16&theme=dark"/>
-</div>  
+
+
+</p>
+
+---
+
+## 🕓 Linha do tempo dos meus estudos
+
+| Ano | Etapa |
+|-----|-------|
+| **2025** | Início dos cursos técnicos: Informática para a Internet (FAT) e Desenvolvimento de Sistemas (SENAC EaD) |
+| **2026** | Desenvolvimento de projetos web com HTML, CSS e JavaScript |
+| **2027** | Criação de portfólio e primeiros trabalhos na área de tecnologia 💼 |
+
+---
+
+## 🎓 Cursos e Certificações
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FAT%20-Informática%20para%20a%20Internet-FFD1DC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="FAT" />
+  <img src="https://img.shields.io/badge/SENAC%20EaD-Desenvolvimento%20de%20Sistemas-FFCCBC?style=for-the-badge&logo=code&logoColor=white" alt="SENAC EaD" />
+  <img src="https://img.shields.io/badge/DIO-Bootcamp%20Santander%20Tech-FFE082?style=for-the-badge&logo=dio&logoColor=black" alt="DIO Santander" />
+  <img src="https://img.shields.io/badge/LinkedIn%20Learning-Cursos%20em%20tecnologia-CE93D8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Learning" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque *(em breve)*
+
+💡 *Aqui vou compartilhar meus primeiros projetos em HTML, CSS e JavaScript!*  
+➡️ *Acompanhe minha jornada por aqui!*  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=silviareis1&show_icons=true&theme=buefy&title_color=f6a5c0&icon_color=f48fb1&text_color=555&bg_color=ffffff&hide_border=true" alt="Estatísticas de Silvia Reis" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviareis1&layout=compact&theme=buefy&title_color=f6a5c0&text_color=555&bg_color=ffffff&hide_border=true" alt="Linguagens mais usadas" width="40%" />
+</p>
+
+---
+
+## 👀 Contador de visitantes
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=silviareis1&color=f6a5c0&style=for-the-badge&label=Visitantes+no+perfil" alt="Contador de visitas" />
+</p>
+
+---
+
+## 🌈 Onde me encontrar
+
+<p align="center">
+  <a href="https://linkedin.com/in/silviareis1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFC1CC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/silviareis1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-D1C4E9?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+  </a>
+  <a href="mailto:silviareis104@gmaail.com">
+    <img src="https://img.shields.io/badge/Email-FFCC80?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <em>Obrigada por visitar meu perfil! Fique à vontade para acompanhar minha evolução na tecnologia.</em> 💫
+</p>
