@@ -96,7 +96,7 @@ Atualmente estou aprendendo **HTML, CSS, JavaScript, lógica de programação, R
 
 ---
 
-## 🌈 Onde me encontrar
+##  Onde me encontrar
 
 <p align="center">
   <a href="https://linkedin.com/in/silviareis1" target="_blank">
